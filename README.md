@@ -61,4 +61,4 @@ see the results in the wiki page https://github.com/shmooel28/OOP_Pokemon_Game/w
 Download
 --
 
-clone - https://github.com/shmooel28/OOP_Pokemon_Game.git
+$git clone  https://github.com/shmooel28/OOP_Pokemon_Game.git
