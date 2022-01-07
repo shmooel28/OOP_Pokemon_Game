@@ -26,6 +26,10 @@ import json
 
 Example
 --
+in the GUI you can see that have a stop button, and print the time left, grade and moves.
+you can see you have to type of pokemon, one for pokemon type negative and one for type positive
+The type is determined by the start and the end of the Pokemon sit on, if the start point lower than the end point, than the type is positive, else is negative
+
 ![game_photo](https://user-images.githubusercontent.com/93682110/148512029-1aebef39-c755-401f-a75e-e1a6e79d49b3.jpg)
 
 How to run
