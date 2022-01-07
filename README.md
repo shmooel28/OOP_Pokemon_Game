@@ -43,6 +43,10 @@ The type is determined by the start and the end of the Pokemon sit on, if the st
 
 ![game_photo](https://user-images.githubusercontent.com/93682110/148512029-1aebef39-c755-401f-a75e-e1a6e79d49b3.jpg)
 
+video example
+--
+https://github.com/shmooel28/OOP_Pokemon_Game/blob/master/pygame%20window%202022-01-07%2009-42-19.mp4
+
 How to run
 --
 Open the folder in the CMD and run the command line: java -jar Ex4_Server_v0.0.jar 0 <level_number>
