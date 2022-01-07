@@ -5,6 +5,14 @@
 
 Description
 --
+I have developed a game where a group of agents have to catch many Pokemons as possible.
+I planned for each agent a path for him so he can catch as many Pokemons as possible in the shortest amount of time in order to achieve the highest score possible.
+
+There are 0-15 stages, each with a different amount of agents, Pokemons and a given time.
+Every Pokemon that an Agent caught creates a new Pokemon in a random location on the graph.
+
+In this project we received data from a server (jar file) and according to that the game is played.
+The information of the game is represented as a JSON file.
 
 Classes
 --
