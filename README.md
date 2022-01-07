@@ -3,7 +3,7 @@
 ![open_page_pokemon](https://user-images.githubusercontent.com/93682110/148511974-5d51401e-9e19-4148-a739-435877eecf6e.jpg)
 
 
-About the mission
+Description
 --
 
 Classes
@@ -19,8 +19,11 @@ for saving in "move" acction, and yet not missing a pokemon, i check if their is
 Requirements
 --
 java machine (JDK 11 or above)
+
 python
+
 install pygame
+
 import json
 
 
@@ -34,9 +37,20 @@ The type is determined by the start and the end of the Pokemon sit on, if the st
 
 How to run
 --
+Open the folder in the CMD and run the command line: java -jar Ex4_Server_v0.0.jar 0 <level_number>
+
+run the Pokemon_game class
+
+for the program work you must have a data folder that contain the graph: A0,A1,A2,A3 -https://github.com/shmooel28/OOP_Pokemon_Game/tree/master/data
+
 ![cmd_photo](https://user-images.githubusercontent.com/93682110/148512017-c8547702-2270-440c-b3ef-0d0f6fdfbf0b.jpg)
 
 
 Results
 --
 see the results in the wiki page https://github.com/shmooel28/OOP_Pokemon_Game/wiki/Results
+
+Download
+--
+
+clone - https://github.com/shmooel28/OOP_Pokemon_Game.git
