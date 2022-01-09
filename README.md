@@ -49,9 +49,9 @@ https://github.com/shmooel28/OOP_Pokemon_Game/blob/master/pygame%20window%202022
 
 How to run
 --
-Open the folder in the CMD and run the command line: java -jar Ex4_Server_v0.0.jar 0 <level_number>
+after you download the project(see below) open in the folder the CMD and run the command line: java -jar Ex4_Server_v0.0.jar 0 <level_number> (level_number - [0,15])
 
-run the Pokemon_game class
+run the Pokemon_game class in the src folder
 
 for the program work you must have a data folder that contain the graph: A0,A1,A2,A3 -https://github.com/shmooel28/OOP_Pokemon_Game/tree/master/data
 
@@ -66,3 +66,5 @@ Download
 --
 
 $git clone  https://github.com/shmooel28/OOP_Pokemon_Game.git
+
+or directly from the relaese
